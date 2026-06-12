@@ -1,0 +1,1640 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>lihi.io - AB 分流行銷短網址 | 網域購買 | 網路行銷工具</title>
+<meta name="description" content="lihi.io 品牌短網址，內建 AB 分流測試、QR Code 產生器、連結即時替換。超過 5,000+ 品牌電商信賴使用，免費方案可用 500 組短網址。立即免費註冊 →">
+<meta name="keywords" content="短網址, 縮網址, 數位行銷工具, 網域購買, AB 測試, QR Code 產生器, 數據追蹤">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://lihi.io/" />
+<link rel="alternate" hreflang="zh-Hant" href="https://lihi.io/" />
+<link rel="alternate" hreflang="en" href="https://lihi.io/en/" />
+<meta property="og:title" content="lihi.io - AB 分流行銷短網址 | 網域購買 | 網路行銷工具">
+<meta property="og:description" content="lihi.io 品牌短網址，內建 AB 分流測試、QR Code 產生器、連結即時替換。超過 5,000+ 品牌電商信賴使用，免費方案可用 500 組短網址。立即免費註冊 →">
+<meta property="og:image" content="https://asset.lihi.io/assets/img/lihi-og-image-1200x630.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="lihi.io - AB 分流行銷短網址 | 品牌網域">
+<meta name="twitter:description" content="品牌短網址內建 AB 分流測試、QR Code、連結即時替換。5,000+ 品牌信賴，免費方案 500 組短網址。">
+<meta name="twitter:image" content="https://asset.lihi.io/assets/img/lihi-og-image-1200x630.png">
+<link rel="shortcut icon" href="/assets/images/favicon-32x32.png" type="image/png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet">
+<!-- Start VWO Async SmartCode -->
+<link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com" />
+<script type='text/javascript' id='vwoCode'>
+window._vwo_code ||
+(function () {
+var w=window,
+d=document;
+var account_id=1216904,
+version=2.2,
+settings_tolerance=2000,
+hide_element='body',
+hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important';
+/* DO NOT EDIT BELOW THIS LINE */
+var f=0, v;
+if(f=!1,v=d.querySelector('#vwoCode'),cc={},-1<d.URL.indexOf('__vwo_disable__')||w._vwo_code)return;try{var e=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=e&&'object'==typeof e?e:{}}catch(e){}function r(t){try{return decodeURIComponent(t)}catch(e){return t}}var s=function(){var e={combination:[],combinationChoose:[],split:[],exclude:[],uuid:null,consent:null,optOut:null},t=d.cookie||'';if(!t)return e;for(var n,i,o=/(?:^|;\s*)(?:(_vis_opt_exp_(\d+)_combi=([^;]*))|(_vis_opt_exp_(\d+)_combi_choose=([^;]*))|(_vis_opt_exp_(\d+)_split=([^:;]*))|(_vis_opt_exp_(\d+)_exclude=[^;]*)|(_vis_opt_out=([^;]*))|(_vwo_global_opt_out=[^;]*)|(_vwo_uuid=([^;]*))|(_vwo_consent=([^;]*)))/g;null!==(n=o.exec(t));)try{n[1]?e.combination.push({id:n[2],value:r(n[3])}):n[4]?e.combinationChoose.push({id:n[5],value:r(n[6])}):n[7]?e.split.push({id:n[8],value:r(n[9])}):n[10]?e.exclude.push({id:n[11]}):n[12]?e.optOut=r(n[13]):n[14]?e.optOut=!0:n[15]?e.uuid=r(n[16]):n[17]&&(i=r(n[18]),e.consent=i&&3<=i.length?i.substring(0,3):null)}catch(e){}return e}();function i(){var e=function(){if(w.VWO&&Array.isArray(w.VWO))for(var e=0;e<w.VWO.length;e++){var t=w.VWO[e];if(Array.isArray(t)&&('setVisitorId'===t[0]||'setSessionId'===t[0]))return!0}return!1}(),t='a='+account_id+'&u='+encodeURIComponent(w._vis_opt_url||d.URL)+'&vn='+version+'&ph=1'+('undefined'!=typeof platform?'&p='+platform:'')+'&st='+w.performance.now();e||((n=function(){var e,t=[],n={},i=w.VWO&&w.VWO.appliedCampaigns||{};for(e in i){var o=i[e]&&i[e].v;o&&(t.push(e+'-'+o+'-1'),n[e]=!0)}if(s&&s.combination)for(var r=0;r<s.combination.length;r++){var a=s.combination[r];n[a.id]||t.push(a.id+'-'+a.value)}return t.join('|')}())&&(t+='&c='+n),(n=function(){var e=[],t={};if(s&&s.combinationChoose)for(var n=0;n<s.combinationChoose.length;n++){var i=s.combinationChoose[n];e.push(i.id+'-'+i.value),t[i.id]=!0}if(s&&s.split)for(var o=0;o<s.split.length;o++)t[(i=s.split[o]).id]||e.push(i.id+'-'+i.value);return e.join('|')}())&&(t+='&cc='+n),(n=function(){var e={},t=[];if(w.VWO&&Array.isArray(w.VWO))for(var n=0;n<w.VWO.length;n++){var i=w.VWO[n];if(Array.isArray(i)&&'setVariation'===i[0]&&i[1]&&Array.isArray(i[1]))for(var o=0;o<i[1].length;o++){var r,a=i[1][o];a&&'object'==typeof a&&(r=a.e,a=a.v,r&&a&&(e[r]=a))}}for(r in e)t.push(r+'-'+e[r]);return t.join('|')}())&&(t+='&sv='+n)),s&&s.optOut&&(t+='&o='+s.optOut);var n=function(){var e=[],t={};if(s&&s.exclude)for(var n=0;n<s.exclude.length;n++){var i=s.exclude[n];t[i.id]||(e.push(i.id),t[i.id]=!0)}return e.join('|')}();return n&&(t+='&e='+n),s&&s.uuid&&(t+='&id='+s.uuid),s&&s.consent&&(t+='&consent='+s.consent),w.name&&-1<w.name.indexOf('_vis_preview')&&(t+='&pM=true'),w.VWO&&w.VWO.ed&&(t+='&ed='+w.VWO.ed),t}code={nonce:v&&v.nonce,library_tolerance:function(){return'undefined'!=typeof library_tolerance?library_tolerance:void 0},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){return performance.getEntriesByName('first-contentful-paint')[0]?'':'string'==typeof cc.hE?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){var t;f||(f=!0,(t=d.getElementById('_vis_opt_path_hides'))&&t.parentNode.removeChild(t),e&&((new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e))},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript',e.src?t.src=e.src:t.text=e.text,v&&t.setAttribute('nonce',v.nonce),d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){t=t||{};var n=new XMLHttpRequest;n.open('GET',e,!0),n.withCredentials=!t.dSC,n.responseType=t.responseType||'text',n.onload=function(){if(t.onloadCb)return t.onloadCb(n,e);200===n.status?_vwo_code.addScript({text:n.responseText}):_vwo_code.finish('&e=loading_failure:'+e)},n.onerror=function(){if(t.onerrorCb)return t.onerrorCb(e);_vwo_code.finish('&e=loading_failure:'+e)},n.send()},init:function(){var e,t=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish()},t),'body'!==this.hide_element()?(n=d.createElement('style'),e=(t=this.hide_element())?t+this.hide_element_style():'',t=d.getElementsByTagName('head')[0],n.setAttribute('id','_vis_opt_path_hides'),v&&n.setAttribute('nonce',v.nonce),n.setAttribute('type','text/css'),n.styleSheet?n.styleSheet.cssText=e:n.appendChild(d.createTextNode(e)),t.appendChild(n)):(n=d.getElementsByTagName('head')[0],(e=d.createElement('div')).style.cssText='z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;',e.setAttribute('id','_vis_opt_path_hides'),e.classList.add('_vis_hide_layer'),n.parentNode.insertBefore(e,n.nextSibling));var n='https://dev.visualwebsiteoptimizer.com/j.php?'+i();-1!==w.location.search.indexOf('_vwo_xhr')?this.addScript({src:n}):this.load(n+'&x=true',{l:1})}};w._vwo_code=code;code.init();})();
+</script>
+<!-- End VWO Async SmartCode -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GKMJC8');</script>
+<!-- End Google Tag Manager -->
+<style>
+/* ===== RESET & BASE ===== */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;scroll-padding-top:80px;font-size:16px;color-scheme:light}
+body{font-family:'Noto Sans TC','Inter',sans-serif;color:#1E293B;background:#fff;line-height:1.5;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+img{max-width:100%;display:block}
+a{text-decoration:none;color:inherit}
+button{border:none;cursor:pointer;font-family:inherit}
+
+/* ===== DESIGN TOKENS ===== */
+:root{
+  --dark-bg:#1A1A5E;
+  --dark-bg2:#191659;
+  --light-gray:#FFF5F8;
+  --brand-pink:#FF6B9D;
+  --brand-blue:#FF6B9D;
+  --cta-orange:#FF6B9D;
+  --cta-hover:#E8558A;
+  --success:#22C55E;
+  --warning:#EF4444;
+  --text-dark:#1A1A5E;
+  --text-secondary:#7B7B9E;
+  --text-light:#E2E8F0;
+  --light-pink:#FFE8F0;
+  --footer-bg:#1A1A5E;
+  --shadow-rest:0 1px 3px rgba(0,0,0,0.06),0 4px 12px rgba(0,0,0,0.04);
+  --shadow-hover:0 4px 12px rgba(0,0,0,0.08),0 8px 24px rgba(0,0,0,0.06);
+  --shadow-elevated:0 8px 30px rgba(0,0,0,0.12);
+  --max-w:1200px;
+  --section-py:40px;
+  --title-gap:28px;
+  --card-gap:28px;
+  --card-radius:16px;
+  --btn-radius:10px;
+  --input-radius:10px;
+}
+
+/* ===== UTILITY ===== */
+.container{max-width:var(--max-w);margin:0 auto;padding:0 24px;width:100%}
+.section-subtitle{font-size:14px;line-height:20px;font-weight:600;letter-spacing:2px;color:var(--brand-pink);margin-bottom:12px}
+.section-title{font-size:36px;line-height:44px;font-weight:700;margin-bottom:var(--title-gap)}
+.section-title.center,.section-subtitle.center{text-align:center}
+.btn-primary{display:inline-flex;align-items:center;justify-content:center;background:var(--cta-orange);color:#fff;font-size:18px;font-weight:700;padding:16px 40px;border-radius:var(--btn-radius);transition:all .2s ease}
+.btn-primary:hover{background:var(--cta-hover);transform:translateY(-2px) scale(1.01);box-shadow:var(--shadow-hover)}
+.btn-secondary{display:inline-flex;align-items:center;justify-content:center;background:transparent;border:2px solid var(--brand-blue);color:var(--brand-blue);font-size:16px;font-weight:600;padding:12px 24px;border-radius:var(--btn-radius);transition:all .2s ease}
+.btn-secondary:hover{background:var(--brand-blue);color:#fff}
+
+/* ===== ANIMATIONS ===== */
+.fade-in{opacity:0;transform:translateY(30px);transition:opacity .6s ease,transform .6s ease}
+.fade-in.visible{opacity:1;transform:translateY(0)}
+.slide-right{opacity:0;transform:translateX(-40px);transition:opacity .6s ease,transform .6s ease}
+.slide-right.visible{opacity:1;transform:translateX(0)}
+.slide-left{opacity:0;transform:translateX(40px);transition:opacity .6s ease,transform .6s ease}
+.slide-left.visible{opacity:1;transform:translateX(0)}
+
+@media(prefers-reduced-motion:reduce){
+  .fade-in,.slide-right,.slide-left{opacity:1;transform:none;transition:none}
+  .marquee-track{animation:none!important}
+  .count-up-num{transition:none!important}
+  .growth-line{animation:none!important;stroke-dashoffset:0!important}
+}
+
+/* ===== FORCE LIGHT MODE ===== */
+@media(prefers-color-scheme:dark){
+  html,body{background:#fff!important;color:#1E293B!important}
+  input,textarea,select,button{background-color:#fff;color:#1E293B;border-color:rgba(26,26,94,0.15)}
+  .faq-question{background:none;color:var(--text-dark)}
+  .nav,.nav-mobile-menu,.nav-dropdown{background:#fff!important}
+}
+
+/* ===== WAVE DIVIDER ===== */
+.wave-divider{width:100%;line-height:0;overflow:hidden}
+.wave-divider svg{display:block;width:100%;height:48px}
+.wave-divider.flip svg{transform:scaleY(-1)}
+
+/* ===== NAV ===== */
+.nav{position:fixed;top:0;left:0;width:100%;z-index:1000;padding:16px 0;transition:all .3s ease;background:#fff}
+.nav.scrolled{background:rgba(255,255,255,0.95);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);box-shadow:0 1px 3px rgba(0,0,0,0.08)}
+.nav-inner{display:flex;align-items:center;justify-content:space-between;max-width:var(--max-w);margin:0 auto;padding:0 24px}
+.nav-logo img{height:40px}
+.nav-links{display:flex;align-items:center;gap:32px;list-style:none}
+.nav-links a{font-size:15px;font-weight:500;color:var(--text-dark);transition:color .3s ease}
+.nav.scrolled .nav-links a{color:var(--text-dark)}
+.nav-links a:hover{color:var(--brand-pink)}
+.nav-links .has-dropdown{position:relative}
+.nav-dropdown{position:absolute;top:calc(100% + 12px);left:50%;transform:translateX(-50%) translateY(8px);background:#fff;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.1);border:1px solid #E5E7EB;padding:6px 0;min-width:160px;list-style:none;z-index:100;opacity:0;visibility:hidden;transition:opacity .2s ease,transform .2s ease,visibility .2s}
+.has-dropdown:hover .nav-dropdown{opacity:1;visibility:visible;transform:translateX(-50%) translateY(0)}
+.nav-dropdown li a{display:block;padding:10px 20px;font-size:14px;color:var(--text-dark);white-space:nowrap;transition:background .15s,color .15s}
+.nav-dropdown li a:hover{background:#FFF0F5;color:var(--brand-pink)}
+.nav-cta{display:flex;align-items:center;gap:10px}
+.nav-cta .btn-primary{padding:10px 24px;font-size:15px}
+.nav-hamburger{display:none;flex-direction:column;gap:5px;background:none;padding:8px}
+.nav-hamburger span{display:block;width:24px;height:2px;background:var(--text-dark);transition:all .3s ease;border-radius:2px;transform-origin:center}
+.nav-hamburger.active span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+.nav-hamburger.active span:nth-child(2){opacity:0}
+.nav-hamburger.active span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+.nav.scrolled .nav-hamburger span{background:var(--text-dark)}
+.nav-mobile-overlay{position:fixed;top:64px;left:0;right:0;bottom:0;background:rgba(0,0,0,.4);z-index:998;opacity:0;visibility:hidden;transition:opacity .25s ease,visibility .25s}
+.nav-mobile-overlay.open{opacity:1;visibility:visible}
+.nav-mobile-menu{position:fixed;top:64px;left:0;right:0;background:#fff;padding:24px;box-shadow:none;z-index:999;opacity:0;visibility:hidden;transform:translateY(-10px);transition:opacity .25s ease,transform .25s ease,visibility .25s}
+.nav-mobile-menu.open{opacity:1;visibility:visible;transform:translateY(0)}
+.nav-mobile-menu a{display:block;padding:12px 0;font-size:16px;color:var(--text-dark);border-bottom:1px solid #eee}
+.mobile-submenu{max-height:0;overflow:hidden;transition:max-height .25s ease;padding-left:16px}
+.mobile-submenu.open{max-height:200px}
+.mobile-submenu a{font-size:15px;color:var(--text-secondary)}
+.nav-mobile-menu .mobile-cta-row{display:flex;gap:10px;margin-top:16px}
+.nav-mobile-menu .mobile-cta-row a{border-bottom:none;padding:14px;font-size:16px;text-align:center;flex:1}
+.nav-mobile-menu .mobile-cta-row .btn-secondary{color:var(--brand-pink);border:2px solid var(--brand-pink)}
+.nav-mobile-menu .mobile-cta-row .btn-primary{color:#fff}
+body.menu-open{overflow:hidden}
+
+/* ===== SECTION 1: HERO ===== */
+.hero{background:linear-gradient(160deg,#fff 50%,#FFF0F5 100%);padding:120px 0 var(--section-py);color:var(--text-dark);position:relative;overflow:hidden}
+.hero::before{content:'';position:absolute;top:-50%;right:-20%;width:600px;height:600px;background:radial-gradient(circle,rgba(255,107,157,0.08) 0%,transparent 70%);pointer-events:none}
+/* Hero decorative elements */
+.hero::after{content:'';position:absolute;bottom:10%;left:5%;width:300px;height:300px;background:radial-gradient(circle,rgba(26,26,94,0.04) 0%,transparent 70%);pointer-events:none;border-radius:50%}
+.hero .deco-dot{position:absolute;border-radius:50%;pointer-events:none;z-index:0}
+.hero .deco-dot-1{width:120px;height:120px;background:rgba(255,107,157,0.06);top:15%;right:35%;animation:float-slow 8s ease-in-out infinite}
+.hero .deco-dot-2{width:60px;height:60px;background:rgba(26,26,94,0.05);bottom:20%;left:10%;animation:float-slow 6s ease-in-out infinite reverse}
+.hero .deco-dot-3{width:80px;height:80px;background:rgba(255,107,157,0.04);top:60%;right:8%;animation:float-slow 10s ease-in-out infinite}
+@keyframes float-slow{0%,100%{transform:translateY(0)}50%{transform:translateY(-15px)}}
+
+.hero-grid{display:grid;grid-template-columns:6fr 4fr;gap:64px;align-items:center;position:relative;z-index:1}
+.hero-title{font-size:48px;line-height:56px;font-weight:700;margin-bottom:24px}
+.hero-bullet-section{margin-bottom:28px}
+.hero-bullets{list-style:none;min-width:0}
+.hero-bullets li{font-size:17px;color:var(--text-dark);margin-bottom:10px;font-weight:500}
+/* 手機版迷你 Dashboard — 桌面隱藏 */
+.mobile-dash-card{display:none}
+.hero-cta{margin-bottom:16px}
+.hero-link{font-size:15px;color:var(--brand-blue);font-weight:500;transition:color .2s;margin-top:12px;display:block}
+.hero-link:hover{color:var(--cta-hover)}
+
+/* ===== UPGRADED Dashboard Mockup ===== */
+.dashboard-mockup{perspective:1200px}
+.mockup-browser{background:#fff;border-radius:12px;box-shadow:0 12px 40px rgba(26,26,94,0.15),0 4px 12px rgba(0,0,0,0.08);border:1px solid rgba(26,26,94,0.08);transform:rotateY(-8deg) rotateX(4deg);transition:transform .4s ease;overflow:hidden}
+.mockup-browser:hover{transform:rotateY(-3deg) rotateX(2deg)}
+.mockup-toolbar{background:#F1F3F5;padding:10px 16px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #E5E7EB}
+.mockup-dots{display:flex;gap:6px}
+.mockup-dots span{width:10px;height:10px;border-radius:50%}
+.mockup-dots span:nth-child(1){background:#FF5F56}
+.mockup-dots span:nth-child(2){background:#FFBD2E}
+.mockup-dots span:nth-child(3){background:#27C93F}
+.mockup-url{flex:1;background:#fff;border-radius:6px;padding:6px 12px;font-size:13px;font-family:'JetBrains Mono',monospace;color:var(--text-secondary);margin-left:8px}
+
+/* New dashboard layout with sidebar */
+.mockup-dashboard{display:flex;min-height:200px}
+.mockup-sidebar{width:52px;background:#1A1A5E;padding:12px 0;display:flex;flex-direction:column;align-items:center;gap:14px;flex-shrink:0}
+.mockup-sidebar .sidebar-logo{width:28px;height:28px;background:var(--brand-pink);border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:700;color:#fff;margin-bottom:4px}
+.mockup-sidebar .sidebar-icon{width:28px;height:28px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:13px;cursor:pointer;transition:background .2s;color:rgba(255,255,255,0.5)}
+.mockup-sidebar .sidebar-icon:hover,.mockup-sidebar .sidebar-icon.active{background:rgba(255,255,255,0.15);color:#fff}
+.mockup-sidebar .sidebar-icon.active{background:rgba(255,107,157,0.3);color:#fff}
+.mockup-main{flex:1;padding:10px 12px;background:#FAFBFC;overflow:hidden}
+.mockup-main .dash-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.mockup-main .dash-title{font-size:13px;font-weight:700;color:var(--dark-bg)}
+.mockup-main .dash-period{font-size:10px;color:var(--text-secondary);background:#fff;padding:3px 8px;border-radius:4px;border:1px solid #E5E7EB}
+.mockup-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-bottom:8px}
+.mockup-stat{background:#fff;border-radius:8px;padding:10px 8px;text-align:center;box-shadow:0 1px 3px rgba(0,0,0,0.04)}
+.mockup-stat .num{font-size:16px;font-weight:700;font-family:'Inter',sans-serif}
+.mockup-stat .num.green{color:var(--success)}
+.mockup-stat .num.orange{color:#F5A623}
+.mockup-stat .num.blue{color:var(--brand-pink)}
+.mockup-stat .label{font-size:9px;color:var(--text-secondary);margin-top:2px}
+
+/* Mini chart in dashboard */
+.dash-chart{background:#fff;border-radius:8px;padding:8px;margin-bottom:8px;box-shadow:0 1px 3px rgba(0,0,0,0.04)}
+.dash-chart-title{font-size:10px;color:var(--text-secondary);margin-bottom:6px;display:flex;justify-content:space-between;align-items:center}
+.dash-chart-title span{color:var(--success);font-weight:600}
+.mini-line-chart{display:flex;align-items:flex-end;gap:3px;height:20px;padding:0 2px}
+.mini-line-chart .chart-bar{flex:1;border-radius:2px 2px 0 0;transition:height .3s;min-width:4px}
+
+/* Link list in dashboard */
+.dash-links{background:#fff;border-radius:8px;padding:8px;box-shadow:0 1px 3px rgba(0,0,0,0.04)}
+.dash-link-row{display:flex;align-items:center;gap:8px;padding:5px 4px;border-bottom:1px solid #F1F3F5;font-size:9px}
+.dash-link-row:last-child{border-bottom:none}
+.dash-link-url{flex:1;color:var(--dark-bg);font-family:'JetBrains Mono',monospace;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.dash-link-clicks{color:var(--text-secondary);font-family:'Inter',sans-serif}
+.dash-link-ab{display:inline-block;padding:1px 5px;border-radius:3px;font-size:8px;font-weight:600}
+.dash-link-ab.on{background:#DCFCE7;color:#16A34A}
+.dash-link-ab.off{background:#F1F3F5;color:#94A3B8}
+
+/* ===== SECTION: BENEFITS ===== */
+.benefits{background:var(--light-pink);padding:48px 0;text-align:center;color:var(--text-dark);position:relative}
+.benefits h2{font-size:32px;font-weight:700;margin-bottom:24px}
+.benefits-list{display:flex;gap:0;text-align:center}
+.benefit-item{flex:1;padding:20px 16px;border-right:1px solid rgba(26,26,94,0.1)}
+.benefit-item:last-child{border-right:none}
+.benefit-item:hover .benefit-icon{transform:scale(1.1)}
+.benefit-icon{font-size:36px;margin-bottom:12px;transition:transform .2s}
+.benefit-item h3{font-size:16px;font-weight:700;color:var(--dark-bg);line-height:1.5}
+
+/* ===== SECTION: TRUST BAR ===== */
+.trust-bar{background:#fff;padding:32px 0;overflow:hidden}
+.trust-bar-title{text-align:center;font-size:14px;color:var(--text-secondary);font-weight:500;margin-bottom:24px}
+.marquee{position:relative;width:100%;overflow:hidden;mask-image:linear-gradient(to right,transparent 0%,black 10%,black 90%,transparent 100%);-webkit-mask-image:linear-gradient(to right,transparent 0%,black 10%,black 90%,transparent 100%)}
+.marquee-track{display:flex;gap:48px;align-items:center;width:max-content;animation:marquee 40s linear infinite}
+@keyframes marquee{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+.marquee-item{flex-shrink:0;max-width:150px;height:100px;display:flex;align-items:center;filter:grayscale(100%);opacity:.5}
+.marquee-item img{max-width:150px;height:100px;object-fit:contain}
+.marquee-item.text-logo{font-size:18px;font-weight:700;color:#888;white-space:nowrap;letter-spacing:1px}
+
+/* ===== SECTION: PAIN POINTS ===== */
+.pain-points{background:var(--light-gray);padding:8px 0 24px;position:relative;overflow:hidden}
+.pain-points::before{content:'';position:absolute;top:10%;right:-5%;width:200px;height:200px;background:radial-gradient(circle,rgba(255,107,157,0.06) 0%,transparent 70%);pointer-events:none;border-radius:50%}
+.pain-points::after{content:'';position:absolute;bottom:5%;left:-3%;width:150px;height:150px;background:radial-gradient(circle,rgba(26,26,94,0.04) 0%,transparent 70%);pointer-events:none;border-radius:50%}
+
+/* Pain layout with illustration */
+.pain-layout{margin-bottom:32px}
+/* pain-illustration removed */
+
+.pain-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:var(--card-gap);margin-bottom:32px}
+.pain-card{background:#fff;border-radius:var(--card-radius);padding:20px;box-shadow:var(--shadow-rest);transition:all .3s ease}
+.pain-card:hover{box-shadow:var(--shadow-hover);transform:translateY(-4px)}
+.pain-card-header{display:flex;align-items:center;gap:12px;margin-bottom:8px}
+.pain-icon{font-size:24px;width:44px;height:44px;display:flex;align-items:center;justify-content:center;border-radius:12px;background:var(--light-pink);flex-shrink:0}
+.pain-card h3{font-size:18px;font-weight:700;margin:0}
+.pain-card p{font-size:14px;line-height:22px;color:var(--text-secondary);margin-bottom:0}
+.pain-result{font-size:14px;color:var(--warning);font-weight:600}
+
+/* Pain flow chart */
+.pain-flow{display:flex;align-items:center;justify-content:center;gap:24px;margin-top:16px}
+.pfi-step{text-align:center}
+.pfi-step img{display:block;margin:0 auto 8px;filter:brightness(1.1) contrast(0.95)}
+.pfi-label{display:inline-block;padding:4px 16px;border-radius:6px;font-size:14px;font-weight:600;background:#FFF0F5;color:var(--brand-pink)}
+.pfi-label.fail{background:#FEE2E2;color:#DC2626}
+.pfi-arrow{font-size:20px;color:#ccc;margin-top:-20px}
+.circular-arrows{display:none}
+
+/* ===== SECTION: FEATURES ===== */
+.tools-section{background:var(--light-gray);padding:8px 0 var(--section-py);position:relative;overflow:hidden}
+.tools-section::before{content:'';position:absolute;top:20%;left:-5%;width:250px;height:250px;background:radial-gradient(circle,rgba(255,107,157,0.05) 0%,transparent 70%);pointer-events:none;border-radius:50%}
+.tools-transition{text-align:center;font-size:18px;color:var(--text-secondary);margin-bottom:16px;padding-top:24px}
+.tools-section .section-title{text-align:center}
+.tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:var(--card-gap)}
+.tool-card{background:#fff;border-radius:12px;padding:32px;box-shadow:var(--shadow-rest);transition:all .3s ease}
+.tool-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-hover)}
+.tool-icon{font-size:40px;margin-bottom:16px;display:none}
+.tool-card h3{font-size:18px;font-weight:700;margin-bottom:8px}
+.tool-card p{font-size:14px;line-height:22px;color:var(--text-secondary)}
+
+/* Mini product screenshots for tool cards */
+.mini-screenshot{width:100%;height:80px;background:#F8FAFC;border-radius:8px;border:1px solid #E5E7EB;margin-bottom:14px;overflow:hidden;position:relative;display:flex;align-items:center;justify-content:flex-start}
+.mini-screenshot .tool-icon-inline{font-size:28px;padding:0 12px;border-right:1px solid #E5E7EB;height:100%;display:flex;align-items:center;flex-shrink:0}
+.mini-screenshot .mini-content{flex:1;display:flex;align-items:center;justify-content:center}
+/* AB Split mini */
+.mini-ab{display:flex;gap:6px;padding:8px;align-items:stretch}
+.mini-ab-side{flex:1;background:#fff;border-radius:4px;padding:8px 6px;text-align:center;border:2px solid transparent;font-size:11px;font-weight:700;white-space:nowrap}
+.mini-ab-side.a{border-color:var(--brand-pink);color:var(--brand-pink)}
+.mini-ab-side.b{border-color:var(--dark-bg);color:var(--dark-bg)}
+.mini-ab-bar{width:100%;height:4px;border-radius:2px;margin-top:4px}
+.mini-ab-side.a .mini-ab-bar{background:linear-gradient(90deg,var(--brand-pink) 65%,#eee 65%)}
+.mini-ab-side.b .mini-ab-bar{background:linear-gradient(90deg,var(--dark-bg) 45%,#eee 45%)}
+.mini-ab-pct{font-size:8px;color:var(--text-secondary);margin-top:2px}
+.mini-ab-divider{display:flex;flex-direction:column;align-items:center;justify-content:center;font-size:16px;color:#ccc;gap:2px}
+.mini-ab-divider span{font-size:8px;color:var(--text-secondary)}
+/* QR mini */
+.mini-qr{display:grid;grid-template-columns:repeat(7,1fr);grid-template-rows:repeat(7,1fr);gap:1px;width:50px;height:50px}
+.mini-qr span{background:#1A1A5E;border-radius:1px}
+.mini-qr span.w{background:transparent}
+/* Domain mini */
+.mini-domain{display:flex;align-items:center;justify-content:center;padding:8px;gap:0}
+.mini-domain-url{font-family:'JetBrains Mono',monospace;font-size:11px;background:#FFF0F5;padding:5px 10px;border-radius:0 4px 4px 0;display:inline-block;white-space:nowrap}
+.mini-domain-url .brand{color:var(--brand-pink);font-weight:700}
+.mini-domain-lock{font-size:10px;color:var(--success);background:#F0FDF4;padding:5px 6px;border-radius:4px 0 0 4px;display:flex;align-items:center;white-space:nowrap}
+/* Replace link mini */
+.mini-replace{padding:6px 10px;width:100%}
+.mini-replace-row{display:flex;align-items:center;gap:4px;font-size:9px;font-family:'JetBrains Mono',monospace;margin-bottom:3px}
+.mini-replace-old{color:#94A3B8;text-decoration:line-through;flex:1}
+.mini-replace-new{color:var(--success);flex:1;font-weight:600}
+.mini-replace-arrow{color:var(--brand-pink);font-size:12px}
+/* Tracking mini */
+.mini-tracking{padding:6px 8px;width:100%}
+.mini-code{font-family:'JetBrains Mono',monospace;font-size:9px;background:#1A1A5E;color:#E2E8F0;padding:6px 8px;border-radius:4px;line-height:1.5}
+.mini-code .tag{color:var(--brand-pink)}
+.mini-code .attr{color:#F5A623}
+.mini-code .val{color:var(--success)}
+/* Verify mini */
+.mini-verify{display:flex;gap:8px;padding:8px;align-items:center;justify-content:center}
+.mini-badge{display:flex;align-items:center;gap:4px;background:#fff;padding:4px 8px;border-radius:6px;border:1px solid #E5E7EB;font-size:9px;font-weight:600;color:var(--dark-bg)}
+.mini-badge .check{color:var(--success)}
+
+/* ===== SECTION: DATA PROOF ===== */
+.data-section{background:#fff;padding:8px 0 var(--section-py);color:var(--text-dark);position:relative;overflow:hidden}
+.data-section::before{content:'';position:absolute;top:0;right:0;width:300px;height:300px;background:radial-gradient(circle,rgba(255,107,157,0.05) 0%,transparent 70%);pointer-events:none}
+.data-header{text-align:center;margin-bottom:32px}
+.data-header h2{font-size:36px;font-weight:700;color:var(--dark-bg);margin-bottom:8px}
+.data-stats-row{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;max-width:900px;margin:0 auto 28px}
+.data-stat-card{background:var(--light-pink);border:1px solid rgba(255,107,157,0.2);border-radius:12px;padding:28px 24px;text-align:center}
+.data-stat-card .stat-num{font-size:56px;font-weight:700;font-family:'Inter',sans-serif;color:var(--brand-pink);line-height:1;margin-bottom:8px}
+.data-stat-card .stat-label{font-size:15px;color:var(--text-secondary);font-weight:500}
+
+/* Data visual: image + growth curve side by side */
+.data-visual-row{display:grid;grid-template-columns:1fr;gap:20px;max-width:900px;margin:0 auto 24px}
+.data-img-full{margin:0 auto}
+.data-img-full img{width:100%;display:block;border-radius:12px;border:1px solid rgba(0,0,0,0.06);box-shadow:var(--shadow-elevated)}
+/* Growth curve */
+.growth-curve-wrap{background:linear-gradient(135deg,#FFF0F5,#fff);border-radius:12px;padding:28px 32px;border:1px solid rgba(255,107,157,0.15);box-shadow:var(--shadow-elevated);position:relative}
+.growth-curve-title{font-size:18px;font-weight:700;color:var(--dark-bg);margin-bottom:4px}
+.growth-curve-sub{font-size:11px;color:var(--text-secondary);margin-bottom:16px}
+.growth-svg{width:100%;height:auto}
+.growth-line{stroke-dasharray:500;stroke-dashoffset:500;animation:draw-line 2s ease forwards}
+.growth-line.visible{animation:draw-line 2s ease forwards}
+@keyframes draw-line{to{stroke-dashoffset:0}}
+.growth-dot{opacity:0;animation:pop-in .3s ease forwards}
+.growth-dot:nth-child(2){animation-delay:.8s}
+.growth-dot:nth-child(3){animation-delay:1.2s}
+.growth-dot:nth-child(4){animation-delay:1.6s}
+@keyframes pop-in{to{opacity:1}}
+.growth-label{font-size:10px;fill:var(--text-secondary);font-family:'Inter',sans-serif}
+.growth-value{font-size:11px;fill:var(--dark-bg);font-weight:700;font-family:'Inter',sans-serif}
+
+.data-cta-wrap{text-align:center;margin-top:50px}
+
+/* ===== SECTION: TESTIMONIALS ===== */
+.testimonials{background:#fff;padding:16px 0 var(--section-py);position:relative;overflow:hidden}
+.testimonials .container{overflow:visible}
+.testimonials::before{content:'';position:absolute;top:5%;left:-3%;width:180px;height:180px;background:radial-gradient(circle,rgba(255,107,157,0.05) 0%,transparent 70%);pointer-events:none;border-radius:50%}
+.testimonials .section-desc{text-align:center;font-size:18px;color:var(--text-secondary);margin-top:-4px;margin-bottom:var(--title-gap)}
+.test-slider{position:relative;padding:0 60px}
+.test-grid{overflow:visible}
+.test-track{display:flex;gap:28px}
+.test-card{background:#fff;border-radius:var(--card-radius);overflow:hidden;box-shadow:var(--shadow-rest);position:relative;flex:0 0 480px;transition:transform .5s ease,opacity .5s ease,filter .5s ease,box-shadow .5s ease;transform:scale(0.85);opacity:0.35;filter:brightness(0.8)}
+.test-card.active{transform:scale(1);opacity:1;filter:none;box-shadow:0 12px 40px rgba(255,107,157,0.18)}
+.test-card img{width:100%;aspect-ratio:4/3;object-fit:contain}
+.test-arrow{position:absolute;top:50%;transform:translateY(-50%);width:44px;height:44px;border-radius:50%;border:none;background:rgba(255,255,255,0.95);backdrop-filter:blur(8px);display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:18px;color:var(--text-dark);transition:all .2s;z-index:10;box-shadow:0 2px 12px rgba(0,0,0,0.1)}
+.test-arrow:hover{background:var(--brand-pink);color:#fff;box-shadow:0 4px 20px rgba(255,107,157,0.3)}
+#testPrev{left:0}
+#testNext{right:0}
+.test-dots{display:flex;gap:6px;align-items:center;justify-content:center;margin-top:28px}
+.test-dots span{width:8px;height:8px;border-radius:50%;background:rgba(26,26,94,0.15);transition:all .25s;cursor:pointer}
+.test-dots span.active{background:var(--brand-pink);width:24px;border-radius:4px}
+
+/* Testimonial card meta */
+.test-card-meta{padding:14px 18px;position:relative}
+.test-card-meta::before{content:'';position:absolute;left:0;right:0;bottom:100%;height:10px;background:linear-gradient(to bottom,transparent 0%,rgba(255,255,255,0.3) 50%,#fff 100%);pointer-events:none}
+.test-meta-text{flex:1}
+.test-company{font-size:12px;color:var(--text-secondary);line-height:1.5}
+
+
+/* ===== SECTION: MID CTA ===== */
+.mid-cta{background:var(--light-gray);padding:32px 0;text-align:center}
+.mid-cta h2{font-size:32px;font-weight:700;margin-bottom:8px;color:var(--text-dark)}
+.mid-cta .subtitle{font-size:16px;color:var(--text-secondary);margin-bottom:20px}
+
+/* ===== SECTION: FAQ ===== */
+.faq-section{background:var(--light-gray);padding:32px 0 var(--section-py);position:relative}
+.faq-section .section-title{text-align:center}
+.faq-list{max-width:800px;margin:0 auto}
+.faq-item{border-bottom:1px solid #E5E7EB}
+.faq-question{width:100%;display:flex;justify-content:space-between;align-items:center;padding:20px 0;font-size:17px;font-weight:600;text-align:left;background:none;color:var(--text-dark);cursor:pointer;line-height:1.4}
+.faq-question:hover{color:var(--brand-blue)}
+.faq-icon{font-size:22px;color:var(--text-secondary);transition:transform .2s ease;flex-shrink:0;margin-left:16px}
+.faq-item.open .faq-icon{transform:rotate(45deg)}
+.faq-answer{max-height:0;overflow:hidden;transition:max-height .2s ease}
+.faq-answer-inner{padding:0 0 20px;font-size:16px;line-height:1.6;color:var(--text-secondary)}
+
+/* ===== SECTION: FINAL CTA ===== */
+.final-cta{background:linear-gradient(135deg,#1A1A5E,#2A2A7E);padding:var(--section-py) 0;text-align:center;color:#fff;position:relative;overflow:hidden}
+.final-cta::before{content:'';position:absolute;top:-30%;right:-10%;width:400px;height:400px;background:radial-gradient(circle,rgba(255,107,157,0.1) 0%,transparent 70%);pointer-events:none}
+.final-cta h2{font-size:36px;font-weight:700;margin-bottom:16px}
+.final-cta .subtitle{font-size:18px;color:var(--text-light);margin-bottom:36px}
+.final-cta .btn-primary{font-size:20px;padding:20px 48px}
+
+/* ===== FOOTER ===== */
+.footer{background:#F9F5F7;border-top:1px solid rgba(26,26,94,0.08);padding:48px 0 32px;color:var(--text-secondary)}
+.footer-inner{display:flex;justify-content:space-between;align-items:flex-start;gap:32px;flex-wrap:wrap}
+.footer-left .footer-logo{height:28px;margin-bottom:12px;opacity:.8}
+.footer-left p{font-size:13px;line-height:20px}
+.footer-right{text-align:right}
+.footer-links{display:flex;gap:20px;margin-bottom:12px;flex-wrap:wrap}
+.footer-links a{font-size:13px;color:var(--text-secondary);transition:color .2s}
+.footer-links a:hover{color:var(--dark-bg)}
+.footer-social{display:flex;gap:16px;justify-content:flex-end}
+.footer-social a{font-size:20px;color:var(--text-secondary);transition:color .2s}
+.footer-social a:hover{color:var(--brand-pink)}
+
+/* ===== MOBILE STICKY CTA ===== */
+.mobile-sticky-cta{display:none;position:fixed;bottom:0;left:0;right:0;background:#fff;padding:12px 24px;box-shadow:0 -2px 12px rgba(0,0,0,0.1);z-index:999}
+.mobile-sticky-cta .btn-primary{width:100%;text-align:center;font-size:16px;padding:14px}
+
+/* ===== RESPONSIVE: TABLET (768-1199px) ===== */
+@media(min-width:768px) and (max-width:1199px){
+  .hero-grid{gap:40px;grid-template-columns:1fr 1fr}
+  .hero-title{font-size:36px;line-height:44px}
+  .data-stats-row{gap:16px}
+  .data-visual-row{grid-template-columns:1fr;max-width:600px}
+  .tools-grid{grid-template-columns:repeat(2,1fr)}
+  .test-slider{padding:0 48px}
+  .test-card{flex:0 0 400px}
+  .pain-layout{grid-template-columns:1fr;gap:20px}
+  .pain-illustration{position:static}
+  .pain-illustration img{max-width:160px}
+  .pain-grid{grid-template-columns:repeat(2,1fr)}
+  .pain-grid .pain-card:nth-child(3){grid-column:span 2;max-width:50%;margin:0 auto}
+  .benefits-list{flex-wrap:wrap;justify-content:center}
+  .benefit-item{flex:none;width:33.33%}
+  .mockup-sidebar{width:44px}
+  .mockup-dashboard{min-height:240px}
+}
+
+/* ===== RESPONSIVE: MOBILE (<768px) ===== */
+@media(max-width:767px){
+  /* --- 13. 全域 --- */
+  :root{--section-py:24px;--title-gap:12px;--card-gap:10px;--card-radius:10px}
+  body{overflow-x:hidden;padding-bottom:0}
+  img{max-width:100%;height:auto}
+  .container{padding:0 16px}
+  .section-title{font-size:24px;line-height:32px}
+  .wave-divider svg{height:28px}
+
+  /* --- 12. Nav --- */
+  .nav-links{display:none!important}
+  .nav-hamburger{display:flex}
+  .nav-cta.desktop{display:none!important}
+
+  /* --- 1. Hero --- */
+  .hero{padding:80px 0 24px}
+  .hero-grid{grid-template-columns:1fr;gap:32px}
+  .hero-title{font-size:28px;line-height:36px}
+  .hero-bullet-section{display:grid;grid-template-columns:minmax(0,1fr) minmax(128px,38vw);gap:10px;align-items:start;margin-bottom:20px}
+  .mobile-dash-card{margin-top:-7px}
+  .hero-bullets li{font-size:13px;line-height:1.45;margin-bottom:8px}
+  .hero .deco-dot{display:none}
+  .mobile-dash-card{display:block;background:#fff;border-radius:8px;box-shadow:0 6px 20px rgba(26,26,94,0.14);border:1px solid rgba(26,26,94,0.08);overflow:hidden;transform:rotate(-2deg);max-width:155px;width:100%}
+  .mdc-toolbar{background:#F1F3F5;padding:3px 8px;display:flex;align-items:center;gap:4px;border-bottom:1px solid #E5E7EB}
+  .mdc-dots{display:flex;gap:3px}
+  .mdc-dots span{width:6px;height:6px;border-radius:50%}
+  .mdc-dots span:nth-child(1){background:#FF5F56}
+  .mdc-dots span:nth-child(2){background:#FFBD2E}
+  .mdc-dots span:nth-child(3){background:#27C93F}
+  .mdc-url{font-size:6px;color:#7B7B9E;margin-left:4px;background:#fff;padding:2px 5px;border-radius:3px;flex:1;font-family:'JetBrains Mono',monospace;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .mdc-dash{display:flex;height:100%}
+  .mdc-sidebar{background:#1A1A5E;width:24px;display:flex;flex-direction:column;align-items:center;padding:4px 0;gap:3px;flex-shrink:0}
+  .mdc-sidebar-logo{width:16px;height:16px;background:var(--brand-pink);border-radius:4px;color:#fff;font-size:8px;font-weight:700;display:flex;align-items:center;justify-content:center;margin-bottom:2px}
+  .mdc-sidebar-icon{font-size:8px;opacity:0.5;line-height:1}
+  .mdc-sidebar-icon.active{opacity:1}
+  .mdc-main{flex:1;padding:4px 6px;background:#FAFBFC;overflow:hidden}
+  .mdc-stats{display:grid;grid-template-columns:1fr 1fr;gap:3px;margin-bottom:4px}
+  .mdc-stat{background:#fff;border-radius:3px;padding:2px 3px;text-align:center;box-shadow:0 1px 2px rgba(0,0,0,0.04)}
+  .mdc-num{font-size:9px;font-weight:700;font-family:'Inter',sans-serif;line-height:1.2}
+  .mdc-green{color:#22C55E}
+  .mdc-pk{color:var(--brand-pink)}
+  .mdc-lbl{font-size:6px;color:#7B7B9E}
+  .mdc-chart{display:flex;align-items:flex-end;gap:2px;height:16px;margin-bottom:4px;padding:0 1px}
+  .mdc-bar{width:100%;border-radius:1px 1px 0 0;min-width:5px}
+  .mdc-bar:nth-child(1){height:50%;background:rgba(26,26,94,0.35)}
+  .mdc-bar:nth-child(2){height:75%;background:rgba(26,26,94,0.55)}
+  .mdc-bar:nth-child(3){height:60%;background:rgba(26,26,94,0.45)}
+  .mdc-bar:nth-child(4){height:90%;background:rgba(26,26,94,0.75)}
+  .mdc-bar:nth-child(5){height:45%;background:rgba(26,26,94,0.3)}
+  .mdc-bar:nth-child(6){height:100%;background:#1A1A5E}
+  .mdc-link-row{font-size:6px;color:var(--text-secondary);padding:2px 0;border-top:1px solid #f0f0f0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .mdc-ab{font-size:5px;background:rgba(255,107,157,0.15);color:var(--brand-pink);padding:1px 3px;border-radius:2px;font-weight:600}
+  .hero-cta{display:flex;width:100%;padding:14px;font-size:16px;text-align:center}
+  .hero-link{display:block;text-align:center;font-weight:700;margin-top:6px;margin-bottom:0}
+  .hero-right{display:none}
+  .dashboard-mockup{perspective:none}
+  .mockup-browser{transform:none!important;box-shadow:0 8px 24px rgba(26,26,94,0.12)}
+  .mockup-browser:hover{transform:none!important}
+  .mockup-body{padding:20px 16px}
+  .mockup-stats{grid-template-columns:repeat(3,1fr);gap:8px}
+  .mockup-stat .num{font-size:16px}
+  .mockup-stat .label{font-size:10px}
+
+  /* --- 2. 五大好處 --- */
+  .benefits h2{font-size:24px;margin-bottom:20px}
+  .benefits{padding:20px 0}
+  .benefits h2{font-size:22px;margin-bottom:12px}
+  .benefits-list{flex-wrap:wrap;justify-content:center;gap:0}
+  .benefit-item{flex:none;width:50%;border-right:none;border-bottom:1px solid rgba(26,26,94,0.1);padding:8px 6px}
+  .benefit-item:nth-child(1){order:1}
+  .benefit-item:nth-child(2){order:2}
+  .benefit-item:nth-child(3){order:4;border-bottom:none}
+  .benefit-item:nth-child(4){order:5;border-bottom:none}
+  .benefit-item:nth-child(5){order:3;width:100%;border-bottom:1px solid rgba(26,26,94,0.1);background:rgba(255,255,255,0.4);padding:6px 6px}
+  .benefit-icon{font-size:22px;margin-bottom:4px}
+  .benefit-item h3{font-size:12px;line-height:1.3}
+
+  /* --- 3. 信任 logo 牆 --- */
+  .marquee-item{height:28px}
+  .marquee-item img{height:28px}
+  .marquee-item.text-logo{font-size:13px}
+  .marquee-track{gap:28px}
+
+  /* --- 4. 痛點三卡 --- */
+  .pain-layout{grid-template-columns:1fr;gap:16px}
+  .pain-illustration{position:static;margin-bottom:8px}
+  .pain-illustration img{max-width:160px}
+  .pain-grid{grid-template-columns:1fr}
+  .pain-sub{margin-top:4px!important;margin-bottom:16px!important;font-size:14px!important}
+  .pain-card{padding:14px 12px}
+  .pain-card-header{gap:10px;margin-bottom:6px}
+  .pain-icon{width:36px;height:36px;font-size:18px;border-radius:10px}
+  .pain-card h3{font-size:15px}
+  .pain-card p{font-size:13px;line-height:20px}
+  .tool-icon{font-size:28px;margin-bottom:10px}
+  .tool-card h3{font-size:16px;margin-bottom:6px}
+  .tool-card p{font-size:13px}
+  /* pain cards use pain-card-header layout */
+  /* 流程圖：圓形循環圖 */
+  .pain-flow{position:relative;width:260px;height:240px;margin:12px auto 0;display:block}
+  .pfi-arrow{display:none}
+  .pfi-step{position:absolute;text-align:center;width:90px;z-index:2}
+  .pfi-step img{height:56px!important;display:block;margin:0 auto 4px}
+  .pfi-label{font-size:13px;padding:4px 12px;white-space:nowrap}
+  /* 困惑：上 */
+  .pfi-step:nth-of-type(1){top:-8px;left:50%;transform:translateX(-50%)}
+  /* 假設錯誤：右 */
+  .pfi-step:nth-of-type(2){top:50%;right:-10px;transform:translateY(-50%)}
+  /* 繼續嘗試：下 */
+  .pfi-step:nth-of-type(3){bottom:-8px;left:50%;transform:translateX(-50%)}
+  /* 還是失敗：左 */
+  .pfi-step:nth-of-type(4){top:50%;left:-10px;transform:translateY(-50%)}
+  /* 循環箭頭 SVG */
+  .circular-arrows{display:block;position:absolute;top:0;left:0;width:100%;height:100%;z-index:1;pointer-events:none}
+
+  /* --- 5. 功能六宮格 --- */
+  .tools-grid{grid-template-columns:1fr}
+  .tools-transition{font-size:15px;padding-top:16px;margin-bottom:12px}
+  .tool-card{padding:16px 14px}
+  .tool-card h3{font-size:16px}
+  .tool-card p{font-size:13px;line-height:20px}
+  .mini-screenshot{height:60px;margin-bottom:10px}
+  .mini-ab-side{font-size:9px;padding:4px}
+  .mini-code{font-size:8px;padding:4px 6px}
+
+  /* --- 6. 數據區 --- */
+  .data-stats-row{grid-template-columns:1fr;max-width:100%;gap:12px}
+  .data-stat-card{padding:14px 12px}
+  .data-stat-card .stat-num{font-size:42px}
+  .data-stat-card .stat-label{font-size:14px}
+  .data-visual-row{grid-template-columns:1fr;max-width:100%;gap:16px}
+  .data-img-full img{width:100%;border-radius:8px}
+  .data-header h2{font-size:28px}
+  .growth-curve-wrap{padding:16px}
+
+  /* --- 7. 見證區 --- */
+  .test-slider{padding:0 36px}
+  .test-card{flex:0 0 85vw}
+  .test-arrow{width:32px;height:32px;font-size:14px}
+  #testPrev{left:0}
+  #testNext{right:0}
+  .test-card-meta{padding:12px 14px}
+  .test-avatar{width:32px;height:32px;font-size:13px}
+  .test-name{font-size:13px}
+  .test-company{font-size:11px}
+  .test-quote-mark{font-size:36px;top:4px;left:10px}
+
+  /* --- 8. FAQ --- */
+  .faq-question{font-size:15px;padding:16px 0}
+  .faq-answer-inner{font-size:14px;line-height:1.6;padding:0 0 16px}
+  .faq-icon{font-size:20px}
+
+  /* --- 9. 最終 CTA --- */
+  .final-cta h2{font-size:26px}
+  .final-cta .subtitle{font-size:16px;margin-bottom:24px}
+  .final-cta .btn-primary{font-size:17px;padding:16px 24px;width:100%;text-align:center}
+
+  /* --- 10. Footer --- */
+  .footer-inner{flex-direction:column;gap:24px}
+  .footer-right{text-align:left}
+  .footer-links{justify-content:flex-start}
+  .footer-social{justify-content:flex-start}
+  .footer-left p{font-size:12px}
+
+  /* --- 11. Mobile sticky CTA bar --- */
+  .mobile-sticky-cta{display:none}
+
+  /* Mid CTA */
+  .mid-cta h2{font-size:24px}
+  .mid-cta .subtitle{font-size:14px}
+}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "lihi.io",
+  "url": "https://lihi.io",
+  "logo": "https://lihi.io/assets/images/lihi-logo-primary.png",
+  "description": "品牌短網址與 AB 分流行銷工具，超過 5,000+ 品牌電商信賴使用。",
+  "sameAs": [
+    "https://www.facebook.com/lihi.io",
+    "https://www.instagram.com/lihi.io.tw",
+    "https://www.youtube.com/@lihi_io"
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "lihi 短網址跟其他短網址有什麼不同？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "lihi 最大差異是支援「自訂品牌網域」。免費短網址使用公共網域，所有人共用同一個短網址域名，容易被歸類為垃圾連結。lihi 讓你用自己的品牌網域建立短網址，提升信任度和點擊率，還內建 AB 分流、追蹤碼管理、連結置換等進階行銷工具。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "什麼是 AB 分流測試？怎麼用？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AB 分流讓你用同一條短網址，自動將流量分配到不同的目標頁面。同一個瀏覽器只會看到同一個版本，確保測試數據精準。你可以直接在後台設定，不需要任何程式碼。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "短網址建好後，目標網址還可以換嗎？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "可以！廣告已經投放、簡訊已經發送，都不需要重做。直接在後台替換目標網址，原本的短網址連結不變，素材文案完全不用動。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "可以追蹤短網址的點擊數據嗎？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "可以！lihi 後台提供完整的點擊數據分析，包括點擊次數、裝置、地區、時間分佈等。還可以一次埋入 GA、Facebook Pixel、GTM 等追蹤碼。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "免費方案有什麼限制？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "免費方案可以使用 500 組短網址，用大眾網域，一樣可分流、可替換連結、可產 QR Code。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "我已經在其他地方買了網域，可以轉過來嗎？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "可以！lihi 支援網域轉入，你可以把已有的網域綁定到 lihi 後台，一樣享受品牌短網址和所有行銷工具。設定過程我們會全程引導，不需要任何技術背景。"
+      }
+    }
+  ]
+}
+</script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GKMJC8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- ===== NAV ===== -->
+<nav class="nav" id="nav">
+  <div class="nav-inner">
+    <a href="#" class="nav-logo"><img src="/assets/images/lihi-logo-primary.png" alt="lihi" style="height:40px"></a>
+    <ul class="nav-links">
+      <li><a href="https://domain.lihi.io/">品牌網域</a></li>
+      <li><a href="https://app.lihi.io/admin/">行銷工具</a></li>
+      <li><a href="https://knowledge.lihi.io/pricing/">方案價格</a></li>
+      <li class="has-dropdown">
+        <a href="javascript:void(0)">行銷資源 ▾</a>
+        <ul class="nav-dropdown">
+          <li><a href="https://knowledge.lihi.io">知識庫</a></li>
+          <li><a href="https://knowledge.lihi.io/recommended-course-ch/">官方課程推薦</a></li>
+          <li><a href="https://verify.lihi.io/">LIHI 證照驗證</a></li>
+        </ul>
+      </li>
+      <li><a href="https://knowledge.lihi.io/about-us-ch/">關於我們</a></li>
+    </ul>
+    <div class="nav-cta desktop">
+      <a href="https://app.lihi.io/admin/login" class="btn-secondary" style="padding:8px 20px;font-size:14px">登入</a>
+      <a href="/go/register" class="btn-primary" style="padding:10px 24px;font-size:15px">免費註冊</a>
+    </div>
+    <button class="nav-hamburger" id="hamburger" aria-label="選單">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-mobile-menu" id="mobileMenu">
+    <a href="https://domain.lihi.io/">品牌網域</a>
+    <a href="https://app.lihi.io/admin/">行銷工具</a>
+    <a href="https://knowledge.lihi.io/pricing/">方案價格</a>
+    <a href="javascript:void(0)" class="mobile-submenu-toggle">行銷資源 ▾</a>
+    <div class="mobile-submenu">
+      <a href="https://knowledge.lihi.io">知識庫</a>
+      <a href="https://knowledge.lihi.io/recommended-course-ch/">官方課程推薦</a>
+      <a href="https://verify.lihi.io/">LIHI 證照驗證</a>
+    </div>
+    <a href="https://knowledge.lihi.io/about-us-ch/">關於我們</a>
+    <div class="mobile-cta-row">
+      <a href="https://app.lihi.io/admin/login" class="btn-secondary">登入</a>
+      <a href="/go/register" class="btn-primary" style="color:#fff">免費註冊</a>
+    </div>
+  </div>
+  <div class="nav-mobile-overlay" id="mobileOverlay"></div>
+</nav>
+
+<!-- ===== SECTION 1: HERO ===== -->
+<section class="hero" id="hero">
+  <!-- Decorative dots -->
+  <div class="deco-dot deco-dot-1"></div>
+  <div class="deco-dot deco-dot-2"></div>
+  <div class="deco-dot deco-dot-3"></div>
+  <div class="container">
+    <div class="hero-grid">
+      <div class="hero-left">
+        <h1 class="hero-title">品牌短網址 + AB 分流測試 — 讓行銷數據自己說話</h1>
+        <div class="hero-bullet-section">
+          <ul class="hero-bullets">
+            <li>✅ 品牌短網址，讓顧客更敢點</li>
+            <li>✅ AB 分流，快速找出高轉換頁</li>
+            <li>✅ 廣告投放後，目標連結仍可換</li>
+            <li>✅ 來源、裝置、成效一眼看懂</li>
+          </ul>
+          <!-- 手機版迷你 Dashboard（桌機版縮小版） -->
+          <div class="mobile-dash-card">
+            <div class="mdc-toolbar">
+              <div class="mdc-dots"><span></span><span></span><span></span></div>
+              <div class="mdc-url">app.lihi.io/dashboard</div>
+            </div>
+            <div class="mdc-dash">
+              <div class="mdc-sidebar">
+                <div class="mdc-sidebar-logo">L</div>
+                <div class="mdc-sidebar-icon active">📊</div>
+                <div class="mdc-sidebar-icon">🔗</div>
+                <div class="mdc-sidebar-icon">🔀</div>
+              </div>
+              <div class="mdc-main">
+                <div class="mdc-stats">
+                  <div class="mdc-stat"><div class="mdc-num mdc-green">12.8K</div><div class="mdc-lbl">點擊</div></div>
+                  <div class="mdc-stat"><div class="mdc-num mdc-pk">+32%</div><div class="mdc-lbl">成長</div></div>
+                </div>
+                <div class="mdc-chart">
+                  <div class="mdc-bar"></div>
+                  <div class="mdc-bar"></div>
+                  <div class="mdc-bar"></div>
+                  <div class="mdc-bar"></div>
+                  <div class="mdc-bar"></div>
+                  <div class="mdc-bar"></div>
+                </div>
+                <div class="mdc-link-row">brand.com/新品 <span class="mdc-ab">A/B</span> 3.2K</div>
+                <div class="mdc-link-row">brand.com/週年 <span class="mdc-ab">A/B</span> 2.1K</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="/go/register" class="btn-primary hero-cta">馬上註冊 — 免費使用 500 組短網址</a>
+        <a href="#pain" class="hero-link">點我了解 lihi 的免費短網址服務 →</a>
+      </div>
+      <div class="hero-right">
+        <div class="dashboard-mockup">
+          <div class="mockup-browser">
+            <div class="mockup-toolbar">
+              <div class="mockup-dots"><span></span><span></span><span></span></div>
+              <div class="mockup-url">🔒 app.lihi.io/dashboard</div>
+            </div>
+            <!-- Upgraded dashboard with sidebar -->
+            <div class="mockup-dashboard">
+              <div class="mockup-sidebar">
+                <div class="sidebar-logo">L</div>
+                <div class="sidebar-icon active" title="總覽">📊</div>
+                <div class="sidebar-icon" title="連結">🔗</div>
+                <div class="sidebar-icon" title="分流">🔀</div>
+                <div class="sidebar-icon" title="QR Code">📱</div>
+                <div class="sidebar-icon" title="設定">⚙️</div>
+              </div>
+              <div class="mockup-main">
+                <div class="dash-header">
+                  <div class="dash-title">📈 總覽 Dashboard</div>
+                  <div class="dash-period">最近 7 天 ▾</div>
+                </div>
+                <div class="mockup-stats">
+                  <div class="mockup-stat">
+                    <div class="num green">12,847</div>
+                    <div class="label">總點擊</div>
+                  </div>
+                  <div class="mockup-stat">
+                    <div class="num orange">+32.6%</div>
+                    <div class="label">成長率</div>
+                  </div>
+                  <div class="mockup-stat">
+                    <div class="num blue">156</div>
+                    <div class="label">活躍連結</div>
+                  </div>
+                </div>
+                <!-- Mini line chart -->
+                <div class="dash-chart">
+                  <div class="dash-chart-title">
+                    <span style="color:var(--dark-bg)">每日點擊趨勢</span>
+                    <span>↑ 25.3%</span>
+                  </div>
+                  <div class="mini-line-chart">
+                    <div class="chart-bar" style="height:35%;background:rgba(255,107,157,0.3)"></div>
+                    <div class="chart-bar" style="height:50%;background:rgba(255,107,157,0.4)"></div>
+                    <div class="chart-bar" style="height:42%;background:rgba(255,107,157,0.35)"></div>
+                    <div class="chart-bar" style="height:65%;background:rgba(255,107,157,0.5)"></div>
+                    <div class="chart-bar" style="height:55%;background:rgba(255,107,157,0.45)"></div>
+                    <div class="chart-bar" style="height:72%;background:rgba(255,107,157,0.6)"></div>
+                    <div class="chart-bar" style="height:68%;background:rgba(255,107,157,0.55)"></div>
+                    <div class="chart-bar" style="height:85%;background:rgba(255,107,157,0.7)"></div>
+                    <div class="chart-bar" style="height:78%;background:rgba(255,107,157,0.65)"></div>
+                    <div class="chart-bar" style="height:100%;background:var(--brand-pink)"></div>
+                  </div>
+                </div>
+                <!-- Link list -->
+                <div class="dash-links">
+                  <div class="dash-link-row">
+                    <div class="dash-link-url">brand.com/新品上市</div>
+                    <div class="dash-link-ab on">A/B ON</div>
+                    <div class="dash-link-clicks">3,241</div>
+                  </div>
+                  <div class="dash-link-row">
+                    <div class="dash-link-url">brand.com/週年慶</div>
+                    <div class="dash-link-ab on">A/B ON</div>
+                    <div class="dash-link-clicks">2,108</div>
+                  </div>
+                  <div class="dash-link-row">
+                    <div class="dash-link-url">brand.com/KOL合作</div>
+                    <div class="dash-link-ab off">—</div>
+                    <div class="dash-link-clicks">1,847</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Wave divider: hero → benefits -->
+<div class="wave-divider">
+  <svg viewBox="0 0 1440 48" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0,16 C360,48 1080,0 1440,32 L1440,48 L0,48 Z" fill="#FFE8F0"/>
+  </svg>
+</div>
+
+<!-- ===== SECTION 2: 五大好處 ===== -->
+<section class="benefits">
+  <div class="container">
+    <h2>5,000+ 品牌選擇 lihi 的理由</h2>
+    <div class="benefits-list">
+      <div class="benefit-item">
+        <div class="benefit-icon">⚡</div>
+        <h3>無需工程師<br>無技術門檻</h3>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-icon">🔗</div>
+        <h3>搭配最好用<br>短網址服務</h3>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-icon">📱</div>
+        <h3>協助簡訊白名單<br>搭配發送系統</h3>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-icon">🎁</div>
+        <h3>送 200 點簡訊<br>+ lihi 方案 2 個月</h3>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-icon">🧾</div>
+        <h3>台灣公司<br>可開發票</h3>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== SECTION 3: TRUST BAR ===== -->
+<section class="trust-bar">
+  <div class="trust-bar-title">超過 5,000+ 品牌信賴 lihi</div>
+  <div class="marquee">
+    <div class="marquee-track" id="marqueeTrack">
+      <div class="marquee-item"><img src="/lp-menu/img/brand2.png" alt="FRESHO2"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand3.png" alt="淨淨"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand4.png" alt="果貿吳媽家"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand6.png" alt="Sexy in Shape"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand8.png" alt="水根肉乾"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand9.png" alt="拿破崙先生"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand10.png" alt="8more"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand11.png" alt="GO! TECHS"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand12.png" alt="全家超商"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand13.png" alt="安達人壽"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand14.png" alt="ASO 阿瘦皮鞋"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand15.png" alt="嘖嘖 zeczec"></div>
+      <!-- Duplicated for seamless loop -->
+      <div class="marquee-item"><img src="/lp-menu/img/brand2.png" alt="FRESHO2"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand3.png" alt="淨淨"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand4.png" alt="果貿吳媽家"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand6.png" alt="Sexy in Shape"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand8.png" alt="水根肉乾"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand9.png" alt="拿破崙先生"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand10.png" alt="8more"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand11.png" alt="GO! TECHS"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand12.png" alt="全家超商"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand13.png" alt="安達人壽"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand14.png" alt="ASO 阿瘦皮鞋"></div>
+      <div class="marquee-item"><img src="/lp-menu/img/brand15.png" alt="嘖嘖 zeczec"></div>
+    </div>
+  </div>
+</section>
+
+<!-- Wave divider: trust → pain -->
+<div class="wave-divider">
+  <svg viewBox="0 0 1440 48" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0,32 C480,0 960,48 1440,16 L1440,48 L0,48 Z" fill="#FFF5F8"/>
+  </svg>
+</div>
+
+<!-- ===== SECTION 4: PAIN POINTS ===== -->
+<section class="pain-points" id="pain">
+  <div class="container">
+    <div class="section-subtitle center">為什麼選擇 lihi</div>
+    <h2 class="section-title center">短網址 AB 測試解決行銷三大困境</h2>
+    <p class="pain-sub" style="text-align:center;font-size:16px;color:var(--text-secondary);margin-top:-8px;margin-bottom:var(--title-gap)">品牌電商天天面對的三大困境，lihi 幫你一次解決</p>
+
+    <!-- Pain layout: cards centered -->
+    <div class="pain-layout">
+      <div class="pain-grid">
+          <div class="pain-card fade-in">
+            <div class="pain-card-header"><div class="pain-icon">📊</div><h3>廣告優化無從下手</h3></div>
+            <p>改圖片還是文案？只能猜，浪費預算</p>
+          </div>
+          <div class="pain-card fade-in" style="transition-delay:.1s">
+            <div class="pain-card-header"><div class="pain-icon">📢</div><h3>KOL 導流難以量化</h3></div>
+            <p>找網紅代言，業績從哪來根本不清楚</p>
+          </div>
+          <div class="pain-card fade-in" style="transition-delay:.2s">
+            <div class="pain-card-header"><div class="pain-icon">⏱️</div><h3>A/B 測試曠日廢時</h3></div>
+            <p>測試週期太長，等待數據時間浪費預算</p>
+          </div>
+        </div>
+    </div>
+
+    <!-- 流程圖 -->
+    <div class="pain-flow fade-in">
+      <div class="pfi-step">
+        <img src="/assets/images/question-sign.png" alt="困惑" style="height:64px;">
+        <span class="pfi-label">困惑</span>
+      </div>
+      <span class="pfi-arrow">→</span>
+      <div class="pfi-step">
+        <img src="/lp-menu/img/problem2.png" alt="假設錯誤" style="height:64px;">
+        <span class="pfi-label">假設錯誤</span>
+      </div>
+      <span class="pfi-arrow">→</span>
+      <div class="pfi-step">
+        <img src="/lp-menu/img/problem3.png" alt="繼續嘗試" style="height:64px;">
+        <span class="pfi-label">繼續嘗試</span>
+      </div>
+      <span class="pfi-arrow">→</span>
+      <div class="pfi-step">
+        <img src="/assets/images/flying-money.png" alt="還是失敗" style="height:64px;">
+        <span class="pfi-label fail">還是失敗</span>
+      </div>
+      <!-- 手機版圓形循環箭頭 SVG -->
+      <svg class="circular-arrows" viewBox="0 0 260 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <marker id="ah1" markerWidth="7" markerHeight="5" refX="6" refY="2.5" orient="auto"><polygon points="0 0, 7 2.5, 0 5" fill="#FF6B9D"/></marker>
+          <marker id="ah2" markerWidth="7" markerHeight="5" refX="6" refY="2.5" orient="auto"><polygon points="0 0, 7 2.5, 0 5" fill="#1A1A5E"/></marker>
+          <marker id="ah3" markerWidth="7" markerHeight="5" refX="6" refY="2.5" orient="auto"><polygon points="0 0, 7 2.5, 0 5" fill="#FF6B9D"/></marker>
+          <marker id="ah4" markerWidth="7" markerHeight="5" refX="6" refY="2.5" orient="auto"><polygon points="0 0, 7 2.5, 0 5" fill="#DC2626"/></marker>
+        </defs>
+        <path d="M168,55 Q210,40 220,95" stroke="#FF6B9D" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#ah1)"/>
+        <path d="M220,152 Q210,200 168,190" stroke="#1A1A5E" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#ah2)"/>
+        <path d="M92,190 Q50,200 40,152" stroke="#FF6B9D" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#ah3)"/>
+        <path d="M40,95 Q50,40 92,55" stroke="#DC2626" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#ah4)"/>
+        <text x="130" y="128" text-anchor="middle" font-size="24" fill="#FF6B9D" opacity="0.35">🔄</text>
+      </svg>
+    </div>
+  </div>
+</section>
+
+<!-- ===== SECTION 5: FEATURES ===== -->
+<section class="tools-section" id="tools">
+  <div class="container">
+    <p class="tools-transition">品牌網域配上 lihi 短網址的優點⋯⋯<strong>你可以做到更多</strong></p>
+    <div class="tools-grid">
+      <!-- 1. 自訂網域 -->
+      <div class="tool-card fade-in">
+        <div class="mini-screenshot">
+          <div class="tool-icon-inline">🌐</div>
+          <div class="mini-content"><div class="mini-domain">
+            <div class="mini-domain-lock">🔒 https://</div>
+            <div class="mini-domain-url"><span class="brand">YourBrand.com</span>/新品上市</div>
+          </div></div>
+        </div>
+        <h3>自訂網域</h3>
+        <p>打造專屬品牌短網址，提升點擊信任度，讓品牌形象延伸到每一條連結。</p>
+      </div>
+      <!-- 2. 自動分流 -->
+      <div class="tool-card fade-in" style="transition-delay:.1s">
+        <div class="mini-screenshot">
+          <div class="tool-icon-inline">🔀</div>
+          <div class="mini-content"><div class="mini-ab">
+            <div class="mini-ab-side a">
+              <div>A 版</div>
+              <div class="mini-ab-bar"></div>
+              <div class="mini-ab-pct">65%</div>
+            </div>
+            <div class="mini-ab-divider">
+              <span>VS</span>
+            </div>
+            <div class="mini-ab-side b">
+              <div>B 版</div>
+              <div class="mini-ab-bar"></div>
+              <div class="mini-ab-pct">35%</div>
+            </div>
+          </div></div>
+        </div>
+        <h3>自動分流</h3>
+        <p>流量自動分配至多個目標頁面，同一瀏覽器只見同一頁面，確保測試數據精準。</p>
+      </div>
+      <!-- 3. QR Code -->
+      <div class="tool-card fade-in" style="transition-delay:.15s">
+        <div class="mini-screenshot">
+          <div class="tool-icon-inline">📱</div>
+          <div class="mini-content"><img src="/assets/images/qr-register.png" alt="QR Code — 掃描前往註冊" style="height:58px;width:58px;object-fit:contain"></div>
+        </div>
+        <h3>QR Code 產生器</h3>
+        <p>把連結、WiFi 設定、電話、圖片都變成 QR Code，而且隨時可替換目的地。</p>
+      </div>
+      <!-- 4. 連結置換 -->
+      <div class="tool-card fade-in" style="transition-delay:.2s">
+        <div class="mini-screenshot">
+          <div class="tool-icon-inline">🔄</div>
+          <div class="mini-content"><div class="mini-replace">
+            <div class="mini-replace-row">
+              <span class="mini-replace-old">brand.com/舊活動</span>
+              <span class="mini-replace-arrow">→</span>
+              <span class="mini-replace-new">brand.com/新活動 ✓</span>
+            </div>
+            <div style="font-size:8px;color:var(--text-secondary);text-align:center;margin-top:4px">短網址不變，目的地即時更換</div>
+          </div></div>
+        </div>
+        <h3>連結置換</h3>
+        <p>廣告已投放不必重做，直接從後台替換目標連結，素材文案完全不用動。</p>
+      </div>
+      <!-- 5. 流量追蹤 -->
+      <div class="tool-card fade-in" style="transition-delay:.25s">
+        <div class="mini-screenshot">
+          <div class="tool-icon-inline">📊</div>
+          <div class="mini-content"><div class="mini-tracking" style="width:100%">
+            <div style="display:flex;flex-direction:column;gap:4px;font-size:9px">
+              <div style="display:flex;align-items:center;gap:4px">
+                <span style="color:var(--text-secondary);white-space:nowrap;width:28px">GA</span>
+                <span style="flex:1;background:#fff;border:1px solid #E5E7EB;border-radius:3px;padding:3px 6px;color:var(--dark-bg);font-family:'JetBrains Mono',monospace">UA-XXXXXXX-1</span>
+              </div>
+              <div style="display:flex;align-items:center;gap:4px">
+                <span style="color:var(--text-secondary);white-space:nowrap;width:28px">Pixel</span>
+                <span style="flex:1;background:#fff;border:1px solid #E5E7EB;border-radius:3px;padding:3px 6px;color:var(--dark-bg);font-family:'JetBrains Mono',monospace">1234567890</span>
+              </div>
+              <div style="display:flex;align-items:center;gap:4px">
+                <span style="color:var(--text-secondary);white-space:nowrap;width:28px">GTM</span>
+                <span style="flex:1;background:#fff;border:1px solid #E5E7EB;border-radius:3px;padding:3px 6px;color:var(--dark-bg);font-family:'JetBrains Mono',monospace">GTM-XXXXX</span>
+              </div>
+            </div>
+          </div></div>
+        </div>
+        <h3>流量追蹤 + 自訂參數</h3>
+        <p>一次設定 GA、Pixel、GTM 等追蹤碼，自訂參數與追蹤變數，精準分析每個渠道的來源成效與 ROI。</p>
+      </div>
+      <!-- 6. 平台認證 -->
+      <div class="tool-card fade-in" style="transition-delay:.3s">
+        <div class="mini-screenshot">
+          <div class="tool-icon-inline">✅</div>
+          <div class="mini-content"><div class="mini-verify">
+            <div class="mini-badge"><span class="check">✓</span> Meta 認證</div>
+            <div class="mini-badge"><span class="check">✓</span> Google 認證</div>
+          </div></div>
+        </div>
+        <h3>支援各大平台認證</h3>
+        <p>Meta 企業管理員、Google Search Console，驗證後減少被封鎖的風險。</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== SECTION 6: DATA PROOF ===== -->
+<section class="data-section" id="data">
+  <div class="container">
+    <div class="data-header">
+      <h2>品牌短網址的實際成效數據</h2>
+    </div>
+    <div class="data-stats-row fade-in">
+      <div class="data-stat-card">
+        <div class="stat-num" id="countUp" data-target="32.6">+0%</div>
+        <div class="stat-label">點擊率提升</div>
+      </div>
+      <div class="data-stat-card">
+        <div class="stat-num">+815</div>
+        <div class="stat-label">多出的點擊次數<br>（同樣 10 萬廣告費）</div>
+      </div>
+      <div class="data-stat-card">
+        <div class="stat-num">+30%</div>
+        <div class="stat-label">多出的訂單數</div>
+      </div>
+    </div>
+    <!-- Image + Growth Curve side by side -->
+    <div class="data-visual-row fade-in" style="transition-delay:.15s">
+      <div class="data-img-full">
+        <img src="/assets/images/fb-ad-compare.png?new" alt="Facebook 廣告數據對比 — 品牌網址 vs 一般短網址">
+      </div>
+      <div class="growth-curve-wrap">
+        <div class="growth-curve-title">品牌網域帶來的成長</div>
+        <div class="growth-curve-sub">使用 lihi 品牌網域後的點擊率變化</div>
+        <svg class="growth-svg" viewBox="0 0 280 160" xmlns="http://www.w3.org/2000/svg">
+          <!-- Grid lines -->
+          <line x1="40" y1="20" x2="40" y2="130" stroke="#E5E7EB" stroke-width="0.5"/>
+          <line x1="40" y1="130" x2="270" y2="130" stroke="#E5E7EB" stroke-width="0.5"/>
+          <line x1="40" y1="100" x2="270" y2="100" stroke="#E5E7EB" stroke-width="0.5" stroke-dasharray="3,3"/>
+          <line x1="40" y1="70" x2="270" y2="70" stroke="#E5E7EB" stroke-width="0.5" stroke-dasharray="3,3"/>
+          <line x1="40" y1="40" x2="270" y2="40" stroke="#E5E7EB" stroke-width="0.5" stroke-dasharray="3,3"/>
+          <!-- Y-axis labels -->
+          <text x="35" y="133" text-anchor="end" class="growth-label">0%</text>
+          <text x="35" y="103" text-anchor="end" class="growth-label">+10%</text>
+          <text x="35" y="73" text-anchor="end" class="growth-label">+20%</text>
+          <text x="35" y="43" text-anchor="end" class="growth-label">+30%</text>
+          <!-- X-axis labels -->
+          <text x="55" y="145" text-anchor="middle" class="growth-label">第1週</text>
+          <text x="120" y="145" text-anchor="middle" class="growth-label">第2週</text>
+          <text x="190" y="145" text-anchor="middle" class="growth-label">第3週</text>
+          <text x="255" y="145" text-anchor="middle" class="growth-label">第4週</text>
+          <!-- Area fill -->
+          <path d="M55,125 C85,118 100,105 120,95 C145,82 165,65 190,52 C215,42 240,35 255,30 L255,130 L55,130 Z" fill="url(#growthGrad)" opacity="0.3"/>
+          <defs>
+            <linearGradient id="growthGrad" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#FF6B9D"/>
+              <stop offset="100%" stop-color="#FF6B9D" stop-opacity="0"/>
+            </linearGradient>
+          </defs>
+          <!-- Growth line -->
+          <path class="growth-line" d="M55,125 C85,118 100,105 120,95 C145,82 165,65 190,52 C215,42 240,35 255,30" stroke="#FF6B9D" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+          <!-- Data points -->
+          <g class="growth-dot">
+            <circle cx="55" cy="125" r="4" fill="#fff" stroke="#FF6B9D" stroke-width="2"/>
+            <text x="55" y="118" text-anchor="middle" class="growth-value">+1.8%</text>
+          </g>
+          <g class="growth-dot">
+            <circle cx="120" cy="95" r="4" fill="#fff" stroke="#FF6B9D" stroke-width="2"/>
+            <text x="120" y="88" text-anchor="middle" class="growth-value">+11.7%</text>
+          </g>
+          <g class="growth-dot">
+            <circle cx="190" cy="52" r="4" fill="#fff" stroke="#FF6B9D" stroke-width="2"/>
+            <text x="190" y="45" text-anchor="middle" class="growth-value">+26.0%</text>
+          </g>
+          <g class="growth-dot">
+            <circle cx="255" cy="30" r="5" fill="#FF6B9D" stroke="#fff" stroke-width="2"/>
+            <text x="255" y="23" text-anchor="middle" class="growth-value" style="fill:#FF6B9D;font-size:12px">+32.6%</text>
+          </g>
+        </svg>
+      </div>
+    </div>
+    <div class="data-cta-wrap">
+      <a href="/go/register" class="btn-primary">馬上註冊 — 免費使用</a>
+    </div>
+  </div>
+</section>
+
+<!-- ===== SECTION 7: TESTIMONIALS ===== -->
+<section class="testimonials" id="testimonials">
+  <div class="container">
+    <div class="section-subtitle center">使用者見證</div>
+    <h2 class="section-title center">品牌主對 lihi 短網址的真實評價</h2>
+    <p class="section-desc">來自百萬品牌電商的親身體驗</p>
+    <div class="test-slider">
+      <div class="test-grid" id="testSlider">
+        <div class="test-track" id="testTrack">
+          <div class="test-card">
+            <img src="https://asset.lihi.io/assets/img/好評.png" alt="lihi 短網址使用者好評 — 行銷社群專家與電商經營者推薦">
+            <div class="test-card-meta">
+              <div class="test-meta-text">
+                <div class="test-company">行銷社群專家-陳思傑、電商經營者-李忠儒 等｜lihi服務無敵滿意，超級推薦!</div>
+              </div>
+            </div>
+          </div>
+          <div class="test-card">
+            <img src="https://asset.lihi.io/assets/img/好評-2.png" alt="lihi 短網址使用者好評 — 電商社群與部落客推薦">
+            <div class="test-card-meta">
+              <div class="test-meta-text">
+                <div class="test-company">電商社群、部落客、行銷社群：征服客戶的利器，縮網址、買網域找 lihi 真的無敵滿意！</div>
+              </div>
+            </div>
+          </div>
+          <div class="test-card">
+            <img src="https://asset.lihi.io/assets/img/好評-Miru.png" alt="lihi 短網址使用者好評 — 品牌顧問 Miru Tsai 推薦">
+            <div class="test-card-meta">
+              <div class="test-meta-text">
+                <div class="test-company">品牌顧問Miru Tsai — 神級工具，助我數位行銷，lihi 自訂網域，強化形象更能防範詐騙，讓顧客購物時更安心。</div>
+              </div>
+            </div>
+          </div>
+          <div class="test-card">
+            <img src="https://asset.lihi.io/assets/img/好評-社團.png" alt="lihi 短網址使用者好評 — 眾多專家社團推薦">
+            <div class="test-card-meta">
+              <div class="test-meta-text">
+                <div class="test-company">眾多專家力薦：lihi自訂網域，提升品牌信任與成效！</div>
+              </div>
+            </div>
+          </div>
+          <div class="test-card">
+            <img src="https://asset.lihi.io/assets/img/好評-web.png" alt="lihi 短網址使用者好評 — 各大行銷教學網站推薦">
+            <div class="test-card-meta">
+              <div class="test-meta-text">
+                <div class="test-company">各大行銷教學網站 — 必備！lihi 短網址，功能強大，活動換檔不改連結，數據精準且管理輕鬆。</div>
+              </div>
+            </div>
+          </div>
+          <div class="test-card">
+            <img src="https://asset.lihi.io/assets/img/好評-5評價.png" alt="lihi 短網址使用者好評 — 電商經營者五星評價">
+            <div class="test-card-meta">
+              <div class="test-meta-text">
+                <div class="test-company">電商經營者 — lihi是行銷人真正需要的短網址工具。</div>
+              </div>
+            </div>
+          </div>
+          <div class="test-card">
+            <img src="https://asset.lihi.io/assets/img/好評-貝佛街.png" alt="lihi 短網址使用者好評 — 貝佛街餐酒坊推薦">
+            <div class="test-card-meta">
+              <div class="test-meta-text">
+                <div class="test-company">貝佛街餐酒坊 — 餐廳・食品電商｜精準行銷，lihi助我們業績長紅！</div>
+              </div>
+            </div>
+          </div>
+          <div class="test-card">
+            <img src="https://asset.lihi.io/assets/img/好評-上班族先生.png" alt="lihi 短網址使用者好評 — 上班族先生推薦">
+            <div class="test-card-meta">
+              <div class="test-meta-text">
+                <div class="test-company">上班族先生 Mr. Worker — 數位行銷｜數位行銷利器！用 lihi 埋 UTM 與 AB 測試，讓網址效用發揮到極致。</div>
+              </div>
+            </div>
+          </div>
+          <div class="test-card">
+            <img src="https://asset.lihi.io/assets/img/好評-TeSA.png" alt="lihi 短網址使用者好評 — TeSA 教育訓練推薦">
+            <div class="test-card-meta">
+              <div class="test-meta-text">
+                <div class="test-company">TeSA — 教育訓練｜lihi.io分流短網址，行銷人必用！</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button class="test-arrow" id="testPrev">←</button>
+      <button class="test-arrow" id="testNext">→</button>
+    </div>
+    <div class="test-dots" id="testDots">
+      <span class="active"></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+    </div>
+  </div>
+</section>
+
+<!-- ===== SECTION 9: FAQ ===== -->
+<section class="faq-section" id="faq">
+  <div class="container">
+    <h2 class="section-title">lihi 短網址常見問題</h2>
+    <div class="faq-list">
+      <div class="faq-item">
+        <button class="faq-question">lihi 短網址跟其他短網址有什麼不同？<span class="faq-icon">+</span></button>
+        <div class="faq-answer"><div class="faq-answer-inner">lihi 最大差異是支援「自訂品牌網域」。免費短網址使用公共網域，所有人共用同一個短網址域名，容易被歸類為垃圾連結。lihi 讓你用自己的品牌網域建立短網址，提升信任度和點擊率，還內建 AB 分流、追蹤碼管理、連結置換等進階行銷工具。</div></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">什麼是 AB 分流測試？怎麼用？<span class="faq-icon">+</span></button>
+        <div class="faq-answer"><div class="faq-answer-inner">AB 分流讓你用同一條短網址，自動將流量分配到不同的目標頁面（例如兩個不同的著陸頁）。同一個瀏覽器只會看到同一個版本，確保測試數據精準。你可以直接在後台設定，不需要任何程式碼。</div></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">短網址建好後，目標網址還可以換嗎？<span class="faq-icon">+</span></button>
+        <div class="faq-answer"><div class="faq-answer-inner">可以！這是 lihi 最受歡迎的功能之一。廣告已經投放、簡訊已經發送，都不需要重做。直接在後台替換目標網址，原本的短網址連結不變，素材文案完全不用動。</div></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">可以追蹤短網址的點擊數據嗎？<span class="faq-icon">+</span></button>
+        <div class="faq-answer"><div class="faq-answer-inner">可以！lihi 後台提供完整的點擊數據分析，包括點擊次數、裝置、地區、時間分佈等。還可以一次埋入 GA、Facebook Pixel、GTM 等追蹤碼，每個點擊都有完整數據記錄。</div></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">免費方案有什麼限制？<span class="faq-icon">+</span></button>
+        <div class="faq-answer"><div class="faq-answer-inner">免費方案可以使用 500 組短網址，用大眾網域，一樣可分流、可替換連結、可產 QR Code。</div></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">我已經在其他地方買了網域，可以轉過來嗎？<span class="faq-icon">+</span></button>
+        <div class="faq-answer"><div class="faq-answer-inner">可以！lihi 支援網域轉入，你可以把已有的網域綁定到 lihi 後台，一樣享受品牌短網址和所有行銷工具。設定過程我們會全程引導，不需要任何技術背景。</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Wave divider: faq → final cta -->
+<div class="wave-divider">
+  <svg viewBox="0 0 1440 48" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0,32 C480,0 960,48 1440,16 L1440,48 L0,48 Z" fill="#1A1A5E"/>
+  </svg>
+</div>
+
+<!-- ===== SECTION 10: FINAL CTA ===== -->
+<section class="final-cta" id="final">
+  <div class="container">
+    <h2>準備好了嗎？</h2>
+    <p class="subtitle">馬上註冊，免費開始使用 lihi 品牌短網址</p>
+    <a href="/go/register" class="btn-primary">馬上註冊 — 免費使用</a>
+  </div>
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer class="footer" id="footer">
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <img src="/assets/images/lihi-logo-primary.png" alt="lihi" class="footer-logo">
+        <p>利害短網址有限公司 | 2017 年成立，服務超過 5,000+ 品牌</p>
+        <p>© 2018-<span id="footerYear"></span> 統編 82908327</p>
+      </div>
+      <div class="footer-right">
+        <div class="footer-links">
+          <a href="https://knowledge.lihi.io/terms-of-use/" target="_blank">服務條款</a>
+          <a href="https://knowledge.lihi.io/privacy-policy/" target="_blank">隱私權政策</a>
+          <a href="https://knowledge.lihi.io/service-level-agreement/" target="_blank">服務等級</a>
+          <a href="https://report.lihi.io" target="_blank">檢舉網址</a>
+          <a href="mailto:service@lihi.io">service@lihi.io</a>
+        </div>
+        <div class="footer-social">
+          <a href="https://www.facebook.com/lihi.io" target="_blank" aria-label="Facebook">
+            <svg width="24" height="24" fill="currentColor" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+          </a>
+          <a href="https://www.instagram.com/lihi.io.tw" target="_blank" aria-label="Instagram">
+            <svg width="24" height="24" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>
+          </a>
+          <a href="https://www.youtube.com/@lihi_io" target="_blank" aria-label="YouTube">
+            <svg width="24" height="24" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 00-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 00.502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 002.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 002.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- ===== MOBILE STICKY CTA ===== -->
+<div class="mobile-sticky-cta">
+  <a href="/go/register" class="btn-primary">馬上註冊 — 免費使用</a>
+</div>
+
+<script>
+(function(){
+  'use strict';
+
+  // ===== FOOTER YEAR =====
+  document.getElementById('footerYear').textContent = new Date().getFullYear();
+
+  // ===== NAV SCROLL =====
+  const nav = document.getElementById('nav');
+  const navLogo = nav.querySelector('.nav-logo img');
+
+  function handleNavScroll() {
+    const scrollY = window.scrollY;
+    if (scrollY > 80) {
+      nav.classList.add('scrolled');
+      navLogo.style.filter = 'none';
+    } else {
+      nav.classList.remove('scrolled');
+      navLogo.style.filter = 'none';
+    }
+  }
+  window.addEventListener('scroll', handleNavScroll, { passive: true });
+
+  // ===== HAMBURGER =====
+  const hamburger = document.getElementById('hamburger');
+  const mobileMenu = document.getElementById('mobileMenu');
+  const mobileOverlay = document.getElementById('mobileOverlay');
+
+  function toggleMenu() {
+    var isOpen = mobileMenu.classList.toggle('open');
+    mobileOverlay.classList.toggle('open', isOpen);
+    hamburger.classList.toggle('active', isOpen);
+    document.body.classList.toggle('menu-open', isOpen);
+  }
+  function closeMenu() {
+    mobileMenu.classList.remove('open');
+    mobileOverlay.classList.remove('open');
+    hamburger.classList.remove('active');
+    document.body.classList.remove('menu-open');
+  }
+  hamburger.addEventListener('click', toggleMenu);
+  mobileOverlay.addEventListener('click', closeMenu);
+  mobileMenu.querySelectorAll('a:not(.mobile-submenu-toggle)').forEach(function(a) {
+    a.addEventListener('click', closeMenu);
+  });
+  var submenuToggle = mobileMenu.querySelector('.mobile-submenu-toggle');
+  if (submenuToggle) {
+    submenuToggle.addEventListener('click', function() {
+      this.nextElementSibling.classList.toggle('open');
+    });
+  }
+
+  // ===== SCROLL ANIMATIONS =====
+  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  if (!prefersReducedMotion) {
+    const animEls = document.querySelectorAll('.fade-in, .slide-right, .slide-left');
+    const observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.15, rootMargin: '0px 0px -40px 0px' });
+
+    animEls.forEach(function(el) { observer.observe(el); });
+
+    // ===== COUNT-UP =====
+    const countEl = document.getElementById('countUp');
+    let counted = false;
+    const countObserver = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting && !counted) {
+          counted = true;
+          animateCount(countEl, 0, 32.6, 1500);
+          countObserver.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.3 });
+    countObserver.observe(countEl);
+
+    // ===== GROWTH LINE ANIMATION =====
+    const growthLine = document.querySelector('.growth-line');
+    if (growthLine) {
+      const growthObserver = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            growthLine.style.animation = 'draw-line 2s ease forwards';
+            growthObserver.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.3 });
+      growthObserver.observe(growthLine);
+    }
+  } else {
+    document.querySelectorAll('.fade-in, .slide-right, .slide-left').forEach(function(el) {
+      el.classList.add('visible');
+    });
+    document.getElementById('countUp').textContent = '+32.6%';
+    var gl = document.querySelector('.growth-line');
+    if (gl) gl.style.strokeDashoffset = '0';
+  }
+
+  function animateCount(el, start, end, duration) {
+    const startTime = performance.now();
+    function update(currentTime) {
+      const elapsed = currentTime - startTime;
+      const progress = Math.min(elapsed / duration, 1);
+      const eased = progress === 1 ? 1 : 1 - Math.pow(2, -10 * progress);
+      const current = start + (end - start) * eased;
+      el.textContent = '+' + current.toFixed(1) + '%';
+      if (progress < 1) requestAnimationFrame(update);
+    }
+    requestAnimationFrame(update);
+  }
+
+  // ===== TESTIMONIAL SLIDER (infinite) =====
+  (function() {
+    var track = document.getElementById('testTrack');
+    var origCards = Array.from(track.querySelectorAll('.test-card'));
+    var dots = document.querySelectorAll('#testDots span');
+    var prevBtn = document.getElementById('testPrev');
+    var nextBtn = document.getElementById('testNext');
+    var total = origCards.length;
+    var autoTimer;
+
+    // Clone cards for infinite loop: [clone-set] [original] [clone-set]
+    origCards.forEach(function(c) { track.appendChild(c.cloneNode(true)); });
+    var prependFrag = document.createDocumentFragment();
+    origCards.forEach(function(c) { prependFrag.appendChild(c.cloneNode(true)); });
+    track.insertBefore(prependFrag, track.firstChild);
+    var allCards = track.querySelectorAll('.test-card');
+    // Current index in the "real" middle set (offset by total)
+    var current = total; // start at first real card
+
+    function getMetrics() {
+      var card = allCards[0];
+      var style = getComputedStyle(track);
+      var gap = parseInt(style.gap) || 28;
+      var cardW = card.offsetWidth;
+      return { cardW: cardW, gap: gap, step: cardW + gap };
+    }
+
+    function render(animate) {
+      var m = getMetrics();
+      var containerW = track.parentElement.offsetWidth;
+      // Center the current card
+      var offset = current * m.step - (containerW - m.cardW) / 2;
+      track.style.transition = animate ? 'transform .5s cubic-bezier(.4,0,.2,1)' : 'none';
+      track.style.transform = 'translateX(' + (-offset) + 'px)';
+      // Spotlight
+      allCards.forEach(function(c, i) {
+        c.classList.toggle('active', i === current);
+      });
+      // Dots (map to real index)
+      var realIdx = ((current - total) % total + total) % total;
+      dots.forEach(function(d, i) { d.className = i === realIdx ? 'active' : ''; });
+    }
+
+    function jumpIfNeeded() {
+      var jumped = false;
+      if (current >= total * 2) {
+        current = current - total;
+        jumped = true;
+      } else if (current < total) {
+        current = current + total;
+        jumped = true;
+      }
+      if (jumped) {
+        // Disable ALL transitions during the silent jump
+        allCards.forEach(function(c) { c.style.transition = 'none'; });
+        render(false);
+        // Force reflow then re-enable
+        void track.offsetHeight;
+        allCards.forEach(function(c) { c.style.transition = ''; });
+      }
+    }
+
+    function goTo(idx) {
+      current = idx;
+      render(true);
+    }
+
+    track.addEventListener('transitionend', function(e) {
+      // Only respond to the track's own transform transition
+      if (e.target === track) jumpIfNeeded();
+    });
+
+    var slider = document.querySelector('.test-slider');
+    var resumeTimer;
+
+    function startAuto() {
+      clearInterval(autoTimer);
+      autoTimer = setInterval(function() { goTo(current + 1); }, 4000);
+    }
+    function stopAuto() {
+      clearInterval(autoTimer);
+      clearTimeout(resumeTimer);
+    }
+    function stopAndDelayResume() {
+      stopAuto();
+      resumeTimer = setTimeout(startAuto, 3000);
+    }
+
+    prevBtn.addEventListener('click', function() { stopAndDelayResume(); goTo(current - 1); });
+    nextBtn.addEventListener('click', function() { stopAndDelayResume(); goTo(current + 1); });
+    dots.forEach(function(d, i) {
+      d.addEventListener('click', function() { stopAndDelayResume(); goTo(total + i); });
+    });
+
+    // Desktop: mouseleave restarts after 3s
+    slider.addEventListener('mouseenter', stopAuto);
+    slider.addEventListener('mouseleave', function() { resumeTimer = setTimeout(startAuto, 3000); });
+
+    // Mobile: touchend restarts after 3s
+    slider.addEventListener('touchstart', stopAuto, { passive: true });
+    slider.addEventListener('touchend', function() { resumeTimer = setTimeout(startAuto, 3000); }, { passive: true });
+
+    window.addEventListener('resize', function() { render(false); });
+    render(false);
+    startAuto();
+  })();
+
+  // ===== LOGIN REDIRECT =====
+  (function() {
+    var host = window.location.hostname;
+    var domain = host.substring(host.lastIndexOf('.', host.lastIndexOf('.') - 1) + 1);
+    var iframe = document.createElement('iframe');
+    iframe.id = 'loginStatus';
+    iframe.style.display = 'none';
+    iframe.src = 'https://app.' + domain + '/loginStatus';
+    document.body.appendChild(iframe);
+  })();
+
+  // ===== FAQ ACCORDION =====
+  document.querySelectorAll('.faq-question').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      const item = this.parentElement;
+      const answer = item.querySelector('.faq-answer');
+      const isOpen = item.classList.contains('open');
+
+      document.querySelectorAll('.faq-item.open').forEach(function(openItem) {
+        openItem.classList.remove('open');
+        openItem.querySelector('.faq-answer').style.maxHeight = '0';
+      });
+
+      if (!isOpen) {
+        item.classList.add('open');
+        answer.style.maxHeight = answer.scrollHeight + 'px';
+      }
+    });
+  });
+
+})();
+</script>
+</body>
+</html>
