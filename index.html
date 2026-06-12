@@ -168,8 +168,16 @@ body.menu-open{overflow:hidden}
 @keyframes float-slow{0%,100%{transform:translateY(0)}50%{transform:translateY(-15px)}}
 
 .hero-grid{display:grid;grid-template-columns:6fr 4fr;gap:64px;align-items:center;position:relative;z-index:1}
-.hero-title{font-size:48px;line-height:56px;font-weight:700;margin-bottom:8px}
-.hero-subtitle{font-size:22px;line-height:32px;font-weight:600;color:var(--text-dark);margin-bottom:24px}
+.hero-title{font-size:48px;line-height:56px;font-weight:700;margin-bottom:16px}
+.hero-subtitle{font-size:22px;line-height:38px;font-weight:600;color:var(--text-dark);margin-bottom:28px}
+/* Hero shorten input */
+.hero-shorten{display:flex;max-width:560px;margin-top:28px;position:relative;z-index:1}
+.hero-shorten-input{flex:1;height:52px;padding:0 24px;border:1.5px solid #d1d5db;border-radius:999px 0 0 999px;border-right:none;font-size:16px;font-family:'Noto Sans TC','Inter',sans-serif;color:#1A1A5E;background:#fff;outline:none;transition:border-color .2s}
+.hero-shorten-input:focus{border-color:#FF6B9D}
+.hero-shorten-input::placeholder{color:#9ca3af;font-size:15px}
+.hero-shorten-btn{height:52px;padding:0 28px;border:none;border-radius:0 999px 999px 0;background:linear-gradient(90deg,#E89B74,#DD6B6B);color:#fff;font-size:16px;font-weight:600;font-family:'Noto Sans TC','Inter',sans-serif;cursor:pointer;transition:opacity .2s}
+.hero-shorten-btn:hover{opacity:.9}
+.hero-shorten-btn:active{transform:translateY(1px)}
 .hero-bullet-section{margin-bottom:28px}
 .hero-bullets{list-style:none;min-width:0}
 .hero-bullets li{font-size:17px;color:var(--text-dark);margin-bottom:10px;font-weight:500}
@@ -465,6 +473,11 @@ body.menu-open{overflow:hidden}
   .hero{padding:80px 0 24px}
   .hero-grid{grid-template-columns:1fr;gap:32px}
   .hero-title{font-size:28px;line-height:36px}
+  .hero-subtitle{font-size:17px;line-height:28px;margin-bottom:20px}
+  .hero-shorten{max-width:100%}
+  .hero-shorten-input{height:48px;padding:0 16px;font-size:14px}
+  .hero-shorten-input::placeholder{font-size:14px}
+  .hero-shorten-btn{height:48px;padding:0 20px;font-size:14px}
   .hero-bullet-section{display:grid;grid-template-columns:minmax(0,1fr) minmax(128px,38vw);gap:10px;align-items:start;margin-bottom:20px}
   .mobile-dash-card{margin-top:-7px}
   .hero-bullets li{font-size:13px;line-height:1.45;margin-bottom:8px}
@@ -752,7 +765,10 @@ body.menu-open{overflow:hidden}
       <div class="hero-left">
         <h1 class="hero-title"><span style="color:#FF6B9D">數位行銷人必備的行銷短網址</span><br>lihi AB 分流短網址</h1>
         <p class="hero-subtitle">更精準的行銷，更完善的功能，更完整的數據<br>百萬品牌電商指定使用短網址，節省 35% 以上廣告費</p>
-        <a href="./go/register" class="btn-primary hero-cta">馬上註冊 — 免費使用 500 組短網址</a>
+        <div class="hero-shorten">
+          <input type="text" class="hero-shorten-input" placeholder="輸入網址，EX:https://lihi.io/" aria-label="輸入網址">
+          <button type="button" class="hero-shorten-btn">產生短網址</button>
+        </div>
       </div>
       <div class="hero-right">
         <div class="dashboard-mockup">
